@@ -14,3 +14,5 @@ Uygulamamı geliştirmeye devam ediyorum sizlerinde katkısını bekliyorum iyi 
 
 
 https://bionluk.com/erenisler2
+
+!NOT: Uygulamyı kendi idenizde çalıştırmanız için Bunifu paketi yüklemeniz gerekli
